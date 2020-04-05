@@ -98,11 +98,11 @@
 
 h2, h3{
   font-family: 'Cinzel';
-  margin:50px;
+
 }
 
 #about{
-  padding:100px;
+  margin:150px;
 }
 
 p{
@@ -112,5 +112,5 @@ p{
 }
 
 #purchase{
-  margin:100px;
+  margin:150px;
 }
